@@ -11,12 +11,16 @@ Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 ### Utilizando o título
 
 No arquivo index.html (linhas 18 e 19): 
+<!--
 > 18 <!--h1 class="titulo"> Login </h1><br/>-->  
 > 19 <img src="imagens/logo.png" width="100px" height="100px"> <br/>
+-->
 
 Remova os comentários '<!-- -->' da linha 18 e adicione a linha 19:
+<!--
 > 18 <h1 class="titulo"> Login </h1><br/>  
 > 19 <!--img src="imagens/logo.png" width="100px" height="100px"> <br/>-->
+-->
 
 No arquivo style.css (linhas 39 ao 46):
 > 39   
@@ -35,12 +39,16 @@ Está pronto para o título.
 ### Utilizando a imagem
 
 No arquivo index.html (linhas 18 e 19): 
+<!--
 > 18 <h1 class="titulo"> Login </h1><br/>  
 > 19 <!--img src="imagens/logo.png" width="100px" height="100px"> <br/>-->
+-->
 
 Remova os comentários '<!-- -->' da linha 19 e adicione a linha 18:
+<!--
 > 18 <!--h1 class="titulo"> Login </h1><br/>-->  
 > 19 <img src="imagens/logo.png" width="100px" height="100px"> <br/>
+-->
 
 No arquivo style.css (linhas 39 ao 46):
 > 39 /*  
