@@ -6,7 +6,7 @@
 Uma tela simples de login responsivo com título ou imagem na parte superior dos inputs.
 
 ## Tabela de conteúdos
-<a href="#opcoes"> Opções </a> <br/> 
+<a href="#opcoes"> Opções </a>
   <ul>
     <li> <a href="#opcoestitulo"> Utilizando o título </a> </li>
     <li> <a href="#opcoesimagem"> Utilizando a imagem </a> </li>
