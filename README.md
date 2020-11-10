@@ -50,7 +50,7 @@ Finalizado
 
 ## Screenshots
 
-<a name="#screenshotsopcoestitulo"/>
+<a name="screenshotsopcoestitulo"/>
 
 ### Versão com título:
 **Largo** <br/>
@@ -59,7 +59,7 @@ Finalizado
 **Pequeno** <br/>
 <img src="./screenshots/login_com_titulo_pequeno.png" width="250px" heigth="319px"/> <br/>
 
-<a name="#screenshotsopcoesimagem"/>
+<a name="screenshotsopcoesimagem"/>
 
 ### Versão com imagem:
 **Largo** <br/>
