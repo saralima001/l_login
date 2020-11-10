@@ -6,28 +6,32 @@
 Uma tela simples de login responsivo com título ou imagem na parte superior dos inputs.
 
 ## Tabela de conteúdos
- <a href="#opcoes"> Opções </a> <br/> 
+<a href="#opcoes"> Opções </a> <br/> 
   <ul>
-  <li> <a href="#titulo"> Utilizando o título </a> </li>
-  <li> <a href="#imagem"> Utilizando a imagem </a> </li>
+    <li> <a href="#opcoestitulo"> Utilizando o título </a> </li>
+    <li> <a href="#opcoesimagem"> Utilizando a imagem </a> </li>
   </ul>
-  <a href="#status"> Status do Projeto </a> <br/>
-  <a href="caracteristicas"> Características </a> <br/>
-  <a href="screenshots"> Screenshots </a> <br/>
- <a href="#creditos"> Créditos </a> <br/> 
- <a href="#licenca"> Licença </a> <br/> 
+<a href="#status"> Status do Projeto </a> <br/>
+<a href="caracteristicas"> Características </a> <br/>
+<a href="screenshots"> Screenshots </a> <br/>
+  <ul>
+    <li> <a href="#screenshotsopcoestitulo"> Utilizando o título </a> </li>
+    <li> <a href="#screenshotsopcoesimagem"> Utilizando a imagem </a> </li>
+  </ul>
+<a href="#creditos"> Créditos </a> <br/> 
+<a href="#licenca"> Licença </a> <br/> 
 
 <a name="opcoes"/>
 
 ## Opções
 Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 
-<a name="titulo"/>
+<a name="opcoestitulo"/>
 
 ### Utilizando o título 
 <img src="./imagens/título.PNG" width="585px" heigth="551px"/> <br/>
 
-<a name="imagem"/>
+<a name="opcoesimagem"/>
 
 ### Utilizando a imagem
 <img src="./imagens/imagem.PNG" width="585px" heigth="551px"/> <br/>
@@ -45,12 +49,17 @@ Finalizado
 <a name="screenshots"/>
 
 ## Screenshots
+
+<a name="#screenshotsopcoestitulo"/>
+
 ### Versão com título:
 **Largo** <br/>
 <img src="./screenshots/login_com_titulo_largo.png" width="680px" heigth="328px"/> <br/>
 
 **Pequeno** <br/>
 <img src="./screenshots/login_com_titulo_pequeno.png" width="250px" heigth="319px"/> <br/>
+
+<a name="#screenshotsopcoesimagem"/>
 
 ### Versão com imagem:
 **Largo** <br/>
