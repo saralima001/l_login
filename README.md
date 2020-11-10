@@ -45,12 +45,12 @@ Finalizado
 <a name="screenshots"/>
 
 ## Screenshots
-### Versão com imagem:
-Largo:
-<img src="./imagens/imagem.PNG" width="680px" heigth="328px"/> <br/>
+### Versão com título:
+Largo: <br/>
+<img src="./screenshots/login_com_titulo_largo.png" width="680px" heigth="328px"/> <br/>
 
-Pequeno:
-<img src="./imagens/imagem.PNG" width="250px" heigth="319px"/> <br/>
+Pequeno: <br/>
+<img src="./screenshots/login_com_titulo_pequeno.png" width="250px" heigth="319px"/> <br/>
 
 
 <a name="creditos"/>
