@@ -46,12 +46,18 @@ Finalizado
 
 ## Screenshots
 ### Versão com título:
-Largo: <br/>
+**Largo** <br/>
 <img src="./screenshots/login_com_titulo_largo.png" width="680px" heigth="328px"/> <br/>
 
-Pequeno: <br/>
+**Pequeno** <br/>
 <img src="./screenshots/login_com_titulo_pequeno.png" width="250px" heigth="319px"/> <br/>
 
+### Versão com imagem:
+**Largo** <br/>
+<img src="./screenshots/login_com_imagem_largo.png" width="680px" heigth="328px"/> <br/>
+
+**Pequeno** <br/>
+<img src="./screenshots/login_com_imagem_pequeno.png" width="250px" heigth="319px"/> <br/>
 
 <a name="creditos"/>
 
