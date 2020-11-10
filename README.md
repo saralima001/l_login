@@ -11,6 +11,9 @@ Uma tela simples de login responsivo com título ou imagem na parte superior dos
   <li> <a href="#titulo"> Utilizando o título </a> </li>
   <li> <a href="#imagem"> Utilizando a imagem </a> </li>
   </ul>
+  <a href="#status"> Status do Projeto </a> <br/>
+  <a href="caracteristicas"> Características </a> <br/>
+  <a href="screenshots"> Screenshots </a> <br/>
  <a href="#creditos"> Créditos </a> <br/> 
  <a href="#licenca"> Licença </a> <br/> 
 
@@ -28,7 +31,27 @@ Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 
 ### Utilizando a imagem
 <img src="./imagens/imagem.PNG" width="585px" heigth="551px"/> <br/>
-</id>
+
+<a name="status"/>
+
+## Status do Projeto
+Finalizado
+
+<a name="caracteristicas"/>
+
+## Características
+- [x] Login de usuário
+
+<a name="screenshots"/>
+
+## Screenshots
+### Versão com imagem:
+Largo:
+<img src="./imagens/imagem.PNG" width="680px" heigth="328px"/> <br/>
+
+Pequeno:
+<img src="./imagens/imagem.PNG" width="250px" heigth="319px"/> <br/>
+
 
 <a name="creditos"/>
 
