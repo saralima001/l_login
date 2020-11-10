@@ -46,6 +46,12 @@ Finalizado
 ## Características
 - [x] Login de usuário
 
+<a name="tecnologias"/>
+
+## Tecnologias
+- HTML
+- CSS
+
 <a name="screenshots"/>
 
 ## Screenshots
@@ -71,7 +77,7 @@ Finalizado
 <a name="creditos"/>
 
 ## Créditos
-Imagem utilizada para o fundo da tela: https://cutewallpaper.org/download.php?file=/21/wallpaper-5k/Wallpaper-Canada,-4k,-5k-wallpaper,-mountains,-sky,-night-.jpg
+[Imagem utilizada para o fundo da tela] (https://cutewallpaper.org/download.php?file=/21/wallpaper-5k/Wallpaper-Canada,-4k,-5k-wallpaper,-mountains,-sky,-night-.jpg)
 
 <a name="licenca"/>
 
