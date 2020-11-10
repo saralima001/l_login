@@ -12,8 +12,8 @@ Uma tela simples de login responsivo com título ou imagem na parte superior dos
     <li> <a href="#opcoesimagem"> Utilizando a imagem </a> </li>
   </ul>
 <a href="#status"> Status do Projeto </a> <br/>
-<a href="caracteristicas"> Características </a> <br/>
-<a href="screenshots"> Screenshots </a> <br/>
+<a href="#caracteristicas"> Características </a> <br/>
+<a href="#screenshots"> Screenshots </a> <br/>
   <ul>
     <li> <a href="#screenshotsopcoestitulo"> Utilizando o título </a> </li>
     <li> <a href="#screenshotsopcoesimagem"> Utilizando a imagem </a> </li>
@@ -42,6 +42,7 @@ Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 Finalizado
 
 <a name="caracteristicas"/>
+
 ## Características
 - [x] Login de usuário
 
