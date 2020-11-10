@@ -13,6 +13,7 @@ Uma tela simples de login responsivo com título ou imagem na parte superior dos
   </ul>
 <a href="#status"> Status do Projeto </a> <br/>
 <a href="#caracteristicas"> Características </a> <br/>
+<a href="#tecnologias"> Tecnologias </a> <br/>
 <a href="#screenshots"> Screenshots </a> <br/>
   <ul>
     <li> <a href="#screenshotsopcoestitulo"> Utilizando o título </a> </li>
