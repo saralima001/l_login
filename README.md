@@ -14,6 +14,7 @@ Uma tela simples de login responsivo com título ou imagem na parte superior dos
  <a href="#opcoes"> Créditos </a> <br/> 
  <a href="#opcoes"> Licença </a> <br/> 
 
+<id="opcoes">
 ## Opções
 Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 
@@ -22,6 +23,7 @@ Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 
 ### Utilizando a imagem
 <img src="./imagens/imagem.PNG" width="585px" heigth="551px"/> <br/>
+</id>
 
 ## Créditos
 Imagem utilizada para o fundo da tela: https://cutewallpaper.org/download.php?file=/21/wallpaper-5k/Wallpaper-Canada,-4k,-5k-wallpaper,-mountains,-sky,-night-.jpg
