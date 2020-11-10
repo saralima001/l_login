@@ -1,5 +1,5 @@
-<h1 align="center" width="100px" heigth="100px">
-  <img alt="L" title="L" src="./imagens/logo.png" />
+<h1 align="center">
+  <img alt="L" title="L" src="./imagens/logo.png" width="100px" heigth="100px"/>
 </h1>
 
 Uma tela simples de login.
