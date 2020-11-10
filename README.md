@@ -42,7 +42,6 @@ Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 Finalizado
 
 <a name="caracteristicas"/>
-
 ## Características
 - [x] Login de usuário
 
