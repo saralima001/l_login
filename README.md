@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" width=100px heigth="100px">
   <img alt="L" title="L" src="./imagens/logo.png" />
 </h1>
 
