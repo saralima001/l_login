@@ -7,9 +7,9 @@ Uma tela simples de login com título ou imagem no cabeçalho.
 ### Opções
 Você pode escolher utilizar um título ou imagem na parte superior dos inputs.
 
-- [x] Para utilizar títulos:
+- [ ] Para utilizar títulos:
 
-- [x] Para utilizar imagem:
+- [ ] Para utilizar imagem:
 
 ### Créditos
 Imagem de fundo da tela: https://cutewallpaper.org/download.php?file=/21/wallpaper-5k/Wallpaper-Canada,-4k,-5k-wallpaper,-mountains,-sky,-night-.jpg
