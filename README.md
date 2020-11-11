@@ -7,14 +7,18 @@ Uma tela simples de login responsivo com título ou imagem na parte superior dos
 
 ## Tabela de conteúdos
 <a href="#opcoes"> Opções </a>
-  <ul><li> <a href="#opcoestitulo"> Utilizando o título </a> </li>
-    <li> <a href="#opcoesimagem"> Utilizando a imagem </a> </li></ul>
+  <ul>
+    <li> <a href="#opcoestitulo"> Utilizando o título </a> </li>
+    <li> <a href="#opcoesimagem"> Utilizando a imagem </a> </li>
+  </ul>
 <a href="#status"> Status do Projeto </a> <br/>
 <a href="#caracteristicas"> Características </a> <br/>
 <a href="#tecnologias"> Tecnologias </a> <br/>
 <a href="#screenshots"> Screenshots </a>
-  <ul><li> <a href="#screenshotsopcoestitulo"> Utilizando o título </a> </li>
-    <li> <a href="#screenshotsopcoesimagem"> Utilizando a imagem </a> </li></ul>
+  <ul>
+    <li> <a href="#screenshotsopcoestitulo"> Utilizando o título </a> </li>
+    <li> <a href="#screenshotsopcoesimagem"> Utilizando a imagem </a> </li>
+  </ul>
 <a href="#creditos"> Créditos </a> <br/> 
 <a href="#licenca"> Licença </a> <br/> 
 
