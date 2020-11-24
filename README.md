@@ -52,6 +52,7 @@ Finalizado
 ## Tecnologias
 - HTML
 - CSS
+- BOOTSTRAP
 
 <a name="screenshots"/>
 
